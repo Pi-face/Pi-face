@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Pi-face" alt="Pi-face" /></a> </p>
 
-- 🎥 I’m currently building: **Unreal Games**
+- 🎥 I’m currently building: **An interpreter in GO**
 
-- 🌱 I’m currently learning: **Unreal Engine and C++**
+- 🌱 I’m currently learning: **GO by creating a compiler and interpreter**
 
 - 🎥 I’m building next: **No Idea LOL**
 
