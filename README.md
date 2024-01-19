@@ -13,13 +13,14 @@
 
 - 🤝 I’m looking for other game devs and collaborators.
 
-<p align="left">
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a>
-            <i class="devicon-javascript-plain colored"></i>
-          </a> </p>
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,cpp,bootstrap,css,gatsby,github,go,html,js" />
+  </a>
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pi-face&show_icons=true&locale=en&layout=compact" alt="Pi-face" /></p>
 
