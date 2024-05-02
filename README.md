@@ -5,15 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Pi-face" alt="Pi-face" /></a> </p>
 
-- 🎥 I’m currently building: **An interpreter in GO**
-
-- 🌱 I’m currently learning: **GO by creating a compiler and interpreter**
-
-- 🎥 I’m building next: **No Idea LOL**
-
-- 🤝 I’m looking for other game devs and collaborators.
-
-
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
@@ -23,8 +14,4 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pi-face&show_icons=true&locale=en&layout=compact" alt="Pi-face" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Pi-face&show_icons=true&locale=en" alt="jeromehardaway" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pi-face&" alt="Pi-face" /></p>
 
